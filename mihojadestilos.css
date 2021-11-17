@@ -1,0 +1,28 @@
+#Encabezados{
+
+    background-color: cadetblue;
+    width: 600px;
+    text-align: center;
+    margin:15px auto;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+#Parrafos{
+    background-color: chocolate;
+}
+
+#Listaordenada{
+
+    background-color: crimson;
+    text-align: left;
+    width: 120px;
+}
+
+#Listadesordenada{
+
+    background-color: rgb(20, 220, 103);
+    text-align: left;
+    width: 120px;
+}
